@@ -8,7 +8,7 @@ class Ex04 {
 		
 		System.out.println(credit((70+80+90)/3.0)+"학점입니다");
 	}
-	
+
 	public static void func(){
 		int a=sum();
 		avg();
